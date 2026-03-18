@@ -3,26 +3,26 @@ A collection of C++ practice problems covering numbers, strings, patterns, and b
 
 | #  | File Name | Description | Key Concept |
 |----|-----------|------------|-------------|
-| 01 | [01_Problem1-MultiplicationTable.cpp](./01_Problem1-MultiplicationTable.cpp) | Generate multiplication tables for given numbers | Loops, Nested Loops |
-| 02 | [02_Problem2-PrintAllPrimeNumber.cpp](./02_Problem2-PrintAllPrimeNumber.cpp) | Print all prime numbers within a range | Prime Checking, Loops |
-| 03 | [03_Problem3-IsPerfectNumber.cpp](./03_Problem3-IsPerfectNumber.cpp) | Check if a number is a perfect number | Divisors Sum, Conditional Logic |
-| 04 | [04_Problem4-PrintPerfectNumberfrom1toN.cpp](./04_Problem4-PrintPerfectNumberfrom1toN.cpp) | Print all perfect numbers from 1 to N | Loops, Perfect Number Concept |
-| 05 | [05_Problem5-ReadNumberAndPrintItInaReversedOrder.cpp](./05_Problem5-ReadNumberAndPrintItInaReversedOrder.cpp) | Reverse digits of a given number | Loops, Modulus, Division |
-| 06 | [06_Problem6-SumOfDigits.cpp](./06_Problem6-SumOfDigits.cpp) | Calculate the sum of digits of a number | Arithmetic Operations, Loops |
-| 07 | [07_Problem7-ReversedNumber.cpp](./07_Problem7-ReversedNumber.cpp) | Reverse a number | Loops, Modulus, Division |
-| 08 | [08_Problem8-DigitFrequancy.cpp](./08_Problem8-DigitFrequancy.cpp) | Count frequency of digits in a number | Arrays, Counting |
-| 09 | [09_Problem9-DigitFrequancyAllNumbersinNumber.cpp](./09_Problem9-DigitFrequancyAllNumbersinNumber.cpp) | Count frequency of all digits in a number | Arrays, Counting |
-| 10 | [10_Problem10-PrintDigitsInOrder.cpp](./10_Problem10-PrintDigitsInOrder.cpp) | Print digits of a number in order | Loops, Modulus, Division |
-| 11 | [11_Problem11-IsPalindromeNumber.cpp](./11_Problem11-IsPalindromeNumber.cpp) | Check if a number is a palindrome | Loops, Conditional Logic |
-| 12 | [12_Problem12-InvertedPatternNumber.cpp](./12_Problem12-InvertedPatternNumber.cpp) | Print inverted number patterns | Nested Loops, Patterns |
-| 13 | [13_Problem13-PatternNumber.cpp](./13_Problem13-PatternNumber.cpp) | Print number patterns | Nested Loops, Patterns |
-| 14 | [14_Problem14-PrintInvertedLetterPattern.cpp](./14_Problem14-PrintInvertedLetterPattern.cpp) | Print inverted letter patterns | Nested Loops, Characters |
-| 15 | [15_Problem15-PatternLetter.cpp](./15_Problem15-PatternLetter.cpp) | Print letter patterns | Nested Loops, Characters |
-| 16 | [16_Problem16-AllWordsFromAAAtoZZZ.cpp](./16_Problem16-AllWordsFromAAAtoZZZ.cpp) | Generate all words from AAA to ZZZ | Nested Loops, Strings |
-| 17 | [17_Problem17-GuessA3LetterPassword.cpp](./17_Problem17-GuessA3LetterPassword.cpp) | Guess a 3-letter password | Loops, Conditional Logic |
-| 18 | [18_Problem18-EncryptDecryptText.cpp](./18_Problem18-EncryptDecryptText.cpp) | Encrypt and decrypt text | Strings, Character Manipulation |
-| 19 | [19_Problem19-RandomNumber.cpp](./19_Problem19-RandomNumber.cpp) | Generate random numbers | Random Number Generation |
-| 20 | [20_Problem20-PrintRandomLettersDigitsSpecialCharacters.cpp](./20_Problem20-PrintRandomLettersDigitsSpecialCharacters.cpp) | Print random letters, digits, and special characters in order | Randomization, Loops, Strings |
+| 01 | [01_Problem-MultiplicationTable.cpp](./01_Problem-MultiplicationTable.cpp) | Generate multiplication tables for given numbers | Loops, Nested Loops |
+| 02 | [02_Problem-PrintAllPrimeNumber.cpp](./02_Problem-PrintAllPrimeNumber.cpp) | Print all prime numbers within a range | Prime Checking, Loops |
+| 03 | [03_Problem-IsPerfectNumber.cpp](./03_Problem-IsPerfectNumber.cpp) | Check if a number is a perfect number | Divisors Sum, Conditional Logic |
+| 04 | [04_Problem-PrintPerfectNumberfrom1toN.cpp](./04_Problem-PrintPerfectNumberfrom1toN.cpp) | Print all perfect numbers from 1 to N | Loops, Perfect Number Concept |
+| 05 | [05_Problem-ReadNumberAndPrintItInaReversedOrder.cpp](./05_Problem-ReadNumberAndPrintItInaReversedOrder.cpp) | Reverse digits of a given number | Loops, Modulus, Division |
+| 06 | [06_Problem-SumOfDigits.cpp](./06_Problem-SumOfDigits.cpp) | Calculate the sum of digits of a number | Arithmetic Operations, Loops |
+| 07 | [07_Problem-ReversedNumber.cpp](./07_Problem-ReversedNumber.cpp) | Reverse a number | Loops, Modulus, Division |
+| 08 | [08_Problem-DigitFrequancy.cpp](./08_Problem-DigitFrequancy.cpp) | Count frequency of digits in a number | Arrays, Counting |
+| 09 | [09_Problem-DigitFrequancyAllNumbersinNumber.cpp](./09_Problem-DigitFrequancyAllNumbersinNumber.cpp) | Count frequency of all digits in a number | Arrays, Counting |
+| 10 | [10_Problem-PrintDigitsInOrder.cpp](./10_Problem-PrintDigitsInOrder.cpp) | Print digits of a number in order | Loops, Modulus, Division |
+| 11 | [11_Problem-IsPalindromeNumber.cpp](./11_Problem-IsPalindromeNumber.cpp) | Check if a number is a palindrome | Loops, Conditional Logic |
+| 12 | [12_Problem-InvertedPatternNumber.cpp](./12_Problem-InvertedPatternNumber.cpp) | Print inverted number patterns | Nested Loops, Patterns |
+| 13 | [13_Problem-PatternNumber.cpp](./13_Problem-PatternNumber.cpp) | Print number patterns | Nested Loops, Patterns |
+| 14 | [14_Problem-PrintInvertedLetterPattern.cpp](./14_Problem-PrintInvertedLetterPattern.cpp) | Print inverted letter patterns | Nested Loops, Characters |
+| 15 | [15_Problem-PatternLetter.cpp](./15_Problem-PatternLetter.cpp) | Print letter patterns | Nested Loops, Characters |
+| 16 | [16_Problem-AllWordsFromAAAtoZZZ.cpp](./16_Problem-AllWordsFromAAAtoZZZ.cpp) | Generate all words from AAA to ZZZ | Nested Loops, Strings |
+| 17 | [17_Problem-GuessA3LetterPassword.cpp](./17_Problem-GuessA3LetterPassword.cpp) | Guess a 3-letter password | Loops, Conditional Logic |
+| 18 | [18_Problem18-EncryptDecryptText.cpp](./18_Problem-EncryptDecryptText.cpp) | Encrypt and decrypt text | Strings, Character Manipulation |
+| 19 | [19_Problem19-RandomNumber.cpp](./19_Problem-RandomNumber.cpp) | Generate random numbers | Random Number Generation |
+| 20 | [20_Problem-PrintRandomLettersDigitsSpecialCharacters.cpp](./20_Problem-PrintRandomLettersDigitsSpecialCharacters.cpp) | Print random letters, digits, and special characters in order | Randomization, Loops, Strings |
 
 ---
 

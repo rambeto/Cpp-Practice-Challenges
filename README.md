@@ -23,7 +23,16 @@ A collection of C++ practice problems covering numbers, strings, patterns, and b
 | 18 | [18_Problem18-EncryptDecryptText.cpp](./18_Problem-EncryptDecryptText.cpp) | Encrypt and decrypt text | Strings, Character Manipulation |
 | 19 | [19_Problem19-RandomNumber.cpp](./19_Problem-RandomNumber.cpp) | Generate random numbers | Random Number Generation |
 | 20 | [20_Problem-PrintRandomLettersDigitsSpecialCharacters.cpp](./20_Problem-PrintRandomLettersDigitsSpecialCharacters.cpp) | Print random letters, digits, and special characters in order | Randomization, Loops, Strings |
-
+| 21 | [21_Problem21-GenerateManyKeys.cpp](./21_Problem21-GenerateManyKeys.cpp) | Generate multiple formatted random keys | Randomization, Strings |
+| 22 | [22_Problem22-ReadAndPrintCountElement.cpp](./22_Problem22-ReadAndPrintCountElement.cpp) | Count occurrences of a specific number in an array | Counting, Arrays |
+| 23 | [23_Problem23-FillArrayWithRandomNumbers.cpp](./23_Problem23-FillArrayWithRandomNumbers.cpp) | Fill an array with random numbers | Random Numbers, Arrays |
+| 24 | [24_Problem24-MaxNumberInArray.cpp](./24_Problem24-MaxNumberInArray.cpp) | Find the maximum number in an array | Searching, Arrays |
+| 25 | [25_Problem25-MinNumberInArray.cpp](./25_Problem25-MinNumberInArray.cpp) | Find the minimum number in an array | Searching, Arrays |
+| 26 | [26_Problem26-SumArray.cpp](./26_Problem26-SumArray.cpp) | Calculate the sum of all elements in an array | Accumulation, Arrays |
+| 27 | [27_Problem27-AverageArray.cpp](./27_Problem27-AverageArray.cpp) | Calculate the average of array elements | Math Operations |
+| 28 | [28_Problem28-CopyArray.cpp](./28_Problem28-CopyArray.cpp) | Copy elements from one array to another | Arrays, Copying |
+| 29 | [29_Problem29-PrintPrimeNumbersInArray.cpp](./29_Problem29-PrintPrimeNumbersInArray.cpp) | Print all prime numbers in an array | Prime Numbers, Loops |
+| 30 | [30_Problem30-SumTwoArrays.cpp](./30_Problem30-SumTwoArrays.cpp) | Sum two arrays element by element | Arrays, Element-wise Operations |
 ---
 
 ## Featured Solutions
@@ -127,3 +136,124 @@ A collection of C++ practice problems covering numbers, strings, patterns, and b
 - **Goal:** Print random small letters, capital letters, digits, and special characters in order.
 - **Logic:** Generate random characters by type and print sequentially.
 - **Key Skill:** Randomization, Loops, Strings.
+
+  ## ⭐ Featured Solutions
+
+### 🔑 Problem 21: Generate Many Keys
+- **🎯 Goal:**  
+  Generate multiple formatted random keys (e.g., XXXX-XXXX).
+
+- **🧠 Logic:**  
+  Create random characters and group them into formatted sections separated by symbols like `-`.
+
+- **💡 Key Skill:**  
+  **Randomization + String Formatting**
+
+---
+
+### 🔢 Problem 22: Count Element Occurrences
+- **🎯 Goal:**  
+  Count how many times a specific number appears in an array.
+
+- **🧠 Logic:**  
+  Loop through the array and increment a counter whenever the target number is found.
+
+- **💡 Key Skill:**  
+  **Looping + Counting Patterns**
+
+---
+
+### 🎲 Problem 23: Fill Array with Random Numbers
+- **🎯 Goal:**  
+  Fill an array with random numbers.
+
+- **🧠 Logic:**  
+  Use a loop with a random number generator to assign values to each element.
+
+- **💡 Key Skill:**  
+  **Arrays + Random Number Generation**
+
+---
+
+### 🔍 Problem 24: Max Number in Array
+- **🎯 Goal:**  
+  Find the maximum number in an array.
+
+- **🧠 Logic:**  
+  Initialize a variable with the first element, then compare it with all elements to find the largest.
+
+- **💡 Key Skill:**  
+  **Searching + Comparison**
+
+---
+
+### 🔍 Problem 25: Min Number in Array
+- **🎯 Goal:**  
+  Find the minimum number in an array.
+
+- **🧠 Logic:**  
+  Initialize a variable with the first element, then update it whenever a smaller value is found.
+
+- **💡 Key Skill:**  
+  **Searching + Comparison**
+
+---
+
+### ➕ Problem 26: Sum Array
+- **🎯 Goal:**  
+  Calculate the sum of all elements in an array.
+
+- **🧠 Logic:**  
+  Use a loop to accumulate the sum of all elements in a variable.
+
+- **💡 Key Skill:**  
+  **Accumulation + Loops**
+
+---
+
+### 📊 Problem 27: Average of Array
+- **🎯 Goal:**  
+  Calculate the average of array elements.
+
+- **🧠 Logic:**  
+  Compute the sum of elements, then divide by the total number of elements.
+
+- **💡 Key Skill:**  
+  **Math Operations + Arrays**
+
+---
+
+### 🔁 Problem 28: Copy Array
+- **🎯 Goal:**  
+  Copy elements from one array to another.
+
+- **🧠 Logic:**  
+  Use a loop to assign each element from the original array to the new array.
+
+- **💡 Key Skill:**  
+  **Arrays + Data Copying**
+
+---
+
+### 🖨️ Problem 29: Print All Prime Numbers in Array
+- **🎯 Goal:**  
+  Print all prime numbers الموجودة داخل المصفوفة.
+
+- **🧠 Logic:**  
+  فحص كل عنصر باستخدام دالة تتحقق هل العدد أولي ثم طباعته إذا كان كذلك.
+
+- **💡 Key Skill:**  
+  **Prime Checking + Nested Loops**
+
+---
+
+### ➕ Problem 30: Sum Two Arrays
+- **🎯 Goal:**  
+  Sum two arrays element by element.
+
+- **🧠 Logic:**  
+  جمع كل عنصر في المصفوفة الأولى مع نظيره في الثانية وتخزين الناتج في مصفوفة جديدة.
+
+- **💡 Key Skill:**  
+  **Arrays + Element-wise Operations**
+
